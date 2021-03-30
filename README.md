@@ -1,4 +1,3 @@
-# Hello-World
-Getting my Git on
+# README.md
 
-This is where my revisions go prior to performing a 'commit'.
+## Template
