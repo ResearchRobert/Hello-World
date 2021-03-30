@@ -1,7 +1,7 @@
 ## README.md
 #### :alien: Template for the readme file that describes a project. :alien:
 
-Unordered List
+###### Unordered List
 * Item 1
 * Item 2
   * Item 2a
@@ -11,7 +11,7 @@ Unordered List
   * Item 4a
 * Item 5
 
-Ordered List
+###### Ordered List
 1. Item 1
 1. Item 2
    1. Item 2a
@@ -21,7 +21,7 @@ Ordered List
    1. Item 3a
    1. Item 3b
 
-Task List
+###### Task List
 - [x] Task 1
 - [x] Task 2
 - [x] this is a completed task
