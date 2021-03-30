@@ -27,7 +27,10 @@
 - [x] this is a completed task
 - [ ] this is an incomplete task
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+##### Table
+First Column Header | Second Column Header
+------------------- | ---------------------
+Content from cell A1 | Content from cell B1
+Content from cell A2 | Content from cell B2
+Content from cell A3 | Content from cell B3
+
