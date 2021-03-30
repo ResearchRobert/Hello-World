@@ -1,5 +1,4 @@
 ## README.md
-
 #### Template for the readme file that describes a project.
 
 Unordered List
@@ -21,3 +20,14 @@ Ordered List
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+Task List
+- [x] Task 1
+- [x] Task 2
+- [x] this is a completed task
+- [ ] this is an incomplete task
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
