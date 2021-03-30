@@ -34,5 +34,5 @@ Content from cell A1 | Content from cell B1
 Content from cell A2 | Content from cell B2
 Content from cell A3 | Content from cell B3
 
-![How to Prepare for a Zoom meeting](https://github.com/ResearchRobert/how-to-prepare-for-a-zoom-meeting.jpg)
+![How to Prepare for a Zoom meeting](https://github.com/ResearchRobert/images/blob/8537682ff6c9bbb5e80d72e04560f14013c9c3e6/how-to-prepare-for-a-zoom-meeting.jpg)
 
