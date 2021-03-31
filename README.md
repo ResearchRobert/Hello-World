@@ -37,6 +37,7 @@ Content from cell A3 | Content from cell B3
 ![How to Prepare for a Zoom meeting](https://github.com/ResearchRobert/images/blob/8537682ff6c9bbb5e80d72e04560f14013c9c3e6/how-to-prepare-for-a-zoom-meeting.jpg)
 
 
-> "we demand rigidly defined areas of doubt and uncertainty!"
+
+> "We demand rigidly defined areas of doubt and uncertainty!"
 >              
 >              ~ Vroomfondel - The Hitchhikers Guide to the Galaxy
