@@ -1,6 +1,9 @@
 ## README.md
 #### :alien: Template for the readme file that describes a project. :alien:
 
+> "we demand rigidly defined areas of doubt and uncertainty!"
+              ~ Vroomfondel - *The Hitchhikers Guide to the Galaxy*
+
 ##### Unordered List
 * Item 1
 * Item 2
