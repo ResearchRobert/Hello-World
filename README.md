@@ -3,7 +3,7 @@
 
 > "we demand rigidly defined areas of doubt and uncertainty!"
 >              
->              ~ Vroomfondel - _The Hitchhikers Guide to the Galaxy_
+>              ~ Vroomfondel - The Hitchhikers Guide to the Galaxy
 
 ##### Unordered List
 * Item 1
